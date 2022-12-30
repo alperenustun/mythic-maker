@@ -1,0 +1,10 @@
+.navbar{
+    padding: 2em 0;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.logo{
+    color: white;
+    font-size: 24px;
+}
