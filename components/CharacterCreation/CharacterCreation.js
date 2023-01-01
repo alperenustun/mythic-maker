@@ -28,6 +28,8 @@ function CharacterCreation() {
     return stats;
   }
 
+  console.log(result);
+
   async function onSubmit(event) {
     event.preventDefault();
     setIsLoading(true);
