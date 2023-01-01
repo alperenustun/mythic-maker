@@ -17,5 +17,5 @@ export default async function (req, res) {
 function generatePrompt(animal) {
   const capitalizedAnimal =
     animal[0].toUpperCase() + animal.slice(1).toLowerCase();
-  return `${capitalizedAnimal} Ultra Realistic RPG Character`;
+  return `${capitalizedAnimal} RPG Character. a photorealistic style, digital art`;
 }

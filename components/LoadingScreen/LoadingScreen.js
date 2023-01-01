@@ -4,7 +4,7 @@ import styles from "./LoadingScreen.module.css";
 function LoadingScreen() {
   return (
     <div className={styles.loadingScreen}>
-        <Image src="/loading.gif" alt="loading-gif" width={400} height={300} />
+        <img src="/loading.gif" alt="loading-gif"/>
         <h2 className={styles.loadingText}>Loading...</h2>
     </div>
   )

@@ -3,7 +3,7 @@
   background: linear-gradient(180deg, #000000 0%, rgba(37, 43, 66, 0.01) 96.5%),
   linear-gradient(180deg, #000000 0%, rgba(37, 43, 66, 0.01) 10%),
   linear-gradient(0deg, #000000 0%, rgba(37, 43, 66, 0.01) 20%),
-    url("../public/background.png");
+    url("../public/background-tavern.png");
   background-size: cover;
   background-position: center;
 }

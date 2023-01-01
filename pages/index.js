@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Mythic Maker | Create your rpg character with AI</title>
         <meta
           name="description"
           content="Mythic maker is a rpg character generating app"
